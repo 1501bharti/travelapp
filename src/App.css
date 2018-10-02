@@ -1,0 +1,394 @@
+.App{
+  margin: 30px 150px 0px 130px;
+}
+
+@media screen and (max-width: 1700px) {
+  .left{
+    margin-right:60px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .left {
+    margin-right:60px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .left {
+    margin-right:30px;
+  }
+}
+
+@media screen and (max-width: 1160px) {
+  .left {
+    margin-right:30px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .left {
+    margin-right:30px;
+  }
+}
+@media screen and (max-width: 770px) {
+  .left {
+    margin-right:5px;
+  }
+}
+
+/* appbar */
+
+.avatar{
+  margin-right: 30px;
+}
+
+
+/* Places */
+
+.places{
+  margin-bottom: 35px;
+ }
+ 
+ .imgplace{
+   margin: 80px 0px 5px 0px;
+   border-radius: 25px;
+ }
+
+@media screen and (max-width: 1700px) {
+  .imgplace{
+    margin: 80px 0px 5px 0px;
+    border-radius: 25px;
+    height:217px;
+    width:487px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+    border-radius: 25px;
+    height:217px;
+    width:487px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .imgplace {
+    margin: 70px 0px 5px 0px;
+    border-radius: 25px;
+    height:217px;
+    width:470px;
+  }
+}
+
+@media screen and (max-width: 1225px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+    border-radius: 25px;
+    height:217px;
+    width:450px;
+  }
+}
+@media screen and (max-width: 1162px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+    border-radius: 25px;
+    height:210px;
+    width:400px;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+   border-radius: 25px;
+   height:190px;
+   width:370px;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+   border-radius: 25px;
+   height:190px;
+   width:370px;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+   border-radius: 25px;
+   height:150px;
+   width:340px;
+  }
+}
+@media screen and (max-width: 906px) {
+  .imgplace {
+    margin: 80px 0px 5px 0px;
+   border-radius: 25px;
+   height:140px;
+   width:320px;
+  }
+}
+
+
+
+@media screen and (max-width: 1700px) {
+  .imgvist{
+    border-radius: 25px;
+    height:113px; 
+    width:116px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .imgvist {
+    border-radius: 25px;
+    height:113px; 
+    width:116px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .imgvist {
+    border-radius: 25px;
+    height:100px; 
+    width:100px;
+  }
+}
+
+@media screen and (max-width: 1225px) {
+  .imgvist {
+    border-radius: 25px;
+    height:90px;
+    width:90px;
+  }
+}
+@media screen and (max-width: 1162px) {
+  .imgvist {
+    border-radius: 25px;
+    height:90px;
+    width:90px;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .imgvist {
+    border-radius: 25px;
+    height:90px;
+    width:90px;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .imgvist {
+    border-radius: 25px;
+    height:114px;
+    width:80px;
+  }
+}
+@media screen and (max-width: 1004px) {
+  .imgvist {
+    border-radius: 25px;
+    height:114px;
+    width:74px;
+  }
+}
+@media screen and (max-width: 906px) {
+  .imgvist {
+    border-radius: 25px;
+    height:110px;
+    width:70px;
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  .imgvist3{
+    border-radius: 25px;
+    height:230px;
+    width:373px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:373px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:363px;
+  }
+}
+
+@media screen and (max-width: 1225px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:345px;
+  }
+}
+@media screen and (max-width: 1162px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:340px;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:340px;
+  }
+}
+@media screen and (max-width: 1070px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:340px;
+  }
+}
+@media screen and (max-width: 1004px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:280px;
+  }
+}
+@media screen and (max-width: 906px) {
+  .imgvist3 {
+    border-radius: 25px;
+    height:230px;
+    width:260px;
+  }
+}
+
+.vist_grid{
+  margin-top: 35px;
+}
+
+.imgheading{
+  margin-top:10px;
+}
+
+.typograph_short{
+    font-size: 12px;
+    letter-spacing: -.2px;
+    color: #757575;
+}
+
+.typograph_bold{
+  font-size:17px;
+  letter-spacing:1;
+  color: #333;
+
+}
+
+.typograph_p{
+  font-size: 12px;
+  color: #757575;
+}
+
+.typograph_b{
+  margin-bottom: 10px;
+  font-size: 22px;
+  font-weight:600;
+  text-align: center
+}
+
+.logo{
+  margin: 0px 50px 0px 0px;
+}
+
+.placeholder_img{
+  margin-top: 60px;
+}
+
+
+.Tagline{
+  text-align: center;
+  margin-left:28px;
+  font-size:25px;
+  color: #7EC0EE;
+  text-transform: uppercase;
+}
+
+.page_bt1{
+  position: relative;
+  left: 440px;
+  top:6px;
+  font-size:16px;
+  font-weight: 500;
+  background-color:#757575;
+  color: white;
+  border-radius: 25px;
+  width:225px;
+  padding:2px 9px;
+}
+
+.page_btn1{
+  position: relative;
+  left: 420px;
+  top: 20px;
+}
+
+.page_btn2{
+  position: relative;
+  left: 465px;
+  top: 20px;
+}
+
+.selectTag{
+  position: relative;
+  top:50px;
+  left:55px;
+}
+
+@media screen and (max-width: 1700px) {
+  .selectTag{
+    position: relative;
+    top:50px;
+    left:55px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .selectTag {
+    position: relative;
+    top:50px;
+    left:55px;
+  }
+}
+
+@media screen and (max-width: 1300px) {
+  .selectTag {
+    position: relative;
+    top:50px;
+    left:55px;
+    font-size:15px;
+
+  }
+}
+
+@media screen and (max-width: 1160px) {
+  .selectTag {
+    position: relative;
+    top:50px;
+    left:45px;
+    font-size:15px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .selectTag {
+    position: relative;
+    top:50px;
+    left:45px;
+    font-size:14px;
+  }
+}
+@media screen and (max-width: 770px) {
+  .selectTag {
+    position: relative;
+    top:50px;
+    left:45px;
+    font-size:10px;
+  }
+}
